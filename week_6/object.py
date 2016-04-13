@@ -18,5 +18,3 @@ mingfeng.skill('學生')
 mingfeng.interest('學生')
 print hanwei.mantra
 print mingfeng.mantra
-
-
