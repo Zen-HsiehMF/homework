@@ -1,5 +1,4 @@
 #encoding:utf-8
-
 import re
 
 member_id = raw_input('請輸入您的會員卡號 : ')
